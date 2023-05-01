@@ -15,4 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-Thanks for Visiting!  ![visitors](https://visitor-badge.glitch.me/badge?page_id=Rox-A-N.id)
+Thanks for Visiting!  
