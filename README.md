@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 # 💫 About Me:
-I'm a Full Stack Developer/Casino Games Expert<br>🧩 I love solving puzzles- which is why I love programming so much!<br>🎓 As a recent grad of Prime Digital Academy (Minneapolis, MN)  I have a solo project and a client project under my belt.<br>🧠 I'm working on adding features to my bill tracking app BillMinder<br>💡 Currently, working on: <br>          *Accessibility Certification from Deque University- completed<br>          *Cloud Practitioner Certificate from AWS<br>          *Learning Kotling and PHP<br><br><br>
+I'm a Full Stack Developer/Casino Games Expert<br>🧩 I love solving puzzles- which is why I love programming so much!<br>🎓 As a recent grad of Prime Digital Academy (Minneapolis, MN)  I have a solo project and a client project under my belt.<br>🧠 I'm working on adding features to my bill tracking app BillMinder<br>💡 Currently, working on: <br>          *Accessibility Certification from Deque University- completed<br>          *Cloud Practitioner Certificate from AWS<br>          *Learning Kotlin and PHP<br><br><br>
 
 
 ## 🌐 Socials:
